@@ -1,0 +1,24 @@
+{
+  "name": "moke-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishaltandale987/Moke-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishaltandale987/Moke-Server/issues"
+  },
+  "homepage": "https://github.com/Vishaltandale987/Moke-Server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
